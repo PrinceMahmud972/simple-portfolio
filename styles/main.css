@@ -177,7 +177,7 @@ li{
 
 }
 
-/* @media(max-width:600px){
+@media(max-width:600px){
 
     .section--page{
         padding-top: 1em;
@@ -199,4 +199,4 @@ li{
         border-left: none;
         padding-left: 0;
     }
-} */
+}
